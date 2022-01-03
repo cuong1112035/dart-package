@@ -1,3 +1,7 @@
+## 0.0.11
+
+* Update library-level documentation.
+
 ## 0.0.10
 
 * Update library-level documentation.

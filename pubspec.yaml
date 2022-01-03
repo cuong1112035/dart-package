@@ -1,8 +1,8 @@
 #  Metadata
 name: cuong_focus_detector_package
 description: Cuong's new Flutter package project.
-version: 0.0.10
-homepage: https://github.com/cuong1112035
+version: 0.0.11
+homepage: https://github.com/cuong1112035/dart-package.git
 documentation: https://example-pet-store.com/newtify/docs
 
 environment:
